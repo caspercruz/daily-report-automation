@@ -1,0 +1,25 @@
+2026-04-19 14:30:28,442 - INFO - Automation started
+2026-04-19 14:30:28,447 - INFO - Data loaded successfully
+2026-04-19 14:30:29,029 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:30:30,586 - ERROR - Automation failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-488fc181c6dsm180419185e9.6 - gsmtp')
+2026-04-19 14:32:39,162 - INFO - Automation started
+2026-04-19 14:32:39,163 - INFO - Data loaded successfully
+2026-04-19 14:32:39,605 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:32:41,021 - ERROR - Automation failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-488fc0b4c85sm187049265e9.0 - gsmtp')
+2026-04-19 14:35:27,649 - INFO - Automation started
+2026-04-19 14:35:27,657 - INFO - Data loaded successfully
+2026-04-19 14:35:28,652 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:35:30,224 - ERROR - Automation failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-43fe4e46471sm19097176f8f.28 - gsmtp')
+2026-04-19 14:35:58,390 - INFO - Automation started
+2026-04-19 14:35:58,391 - INFO - Data loaded successfully
+2026-04-19 14:35:59,122 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:36:00,653 - ERROR - Automation failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4891978ef6bsm7255115e9.4 - gsmtp')
+2026-04-19 14:40:03,556 - INFO - Automation started
+2026-04-19 14:40:03,561 - INFO - Data loaded successfully
+2026-04-19 14:40:04,582 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:40:06,495 - ERROR - Automation failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-488ffc5e3f4sm73941695e9.2 - gsmtp')
+2026-04-19 14:41:40,396 - INFO - Automation started
+2026-04-19 14:41:40,402 - INFO - Data loaded successfully
+2026-04-19 14:41:41,219 - INFO - Report generated: C:\Users\vishn\Documents\VScode\daily_report_automation\reports\report.png
+2026-04-19 14:41:43,954 - INFO - Email sent successfully
+2026-04-19 14:41:43,955 - INFO - Automation completed

@@ -1,0 +1,5 @@
+customer,amount,status
+A,500,paid
+B,1200,pending
+C,700,paid
+D,300,pending
