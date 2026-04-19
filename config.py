@@ -10,9 +10,9 @@ REPORT_PATH = os.path.join(BASE_DIR, "reports")
 LOG_PATH = os.path.join(BASE_DIR, "logs")
 
 # Email settings
-EMAIL_SENDER = "vishnuraveendran363@gmail.com"
-EMAIL_PASSWORD = "jponzroezevnjadm"
-EMAIL_RECEIVER = "vishnuraveendran363@gmail.com"
+EMAIL_SENDER = "######@gmail.com"
+EMAIL_PASSWORD = "####"
+EMAIL_RECEIVER = "######@gmail.com"
 
 # SMTP settings
 SMTP_SERVER = "smtp.gmail.com"
